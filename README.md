@@ -49,5 +49,5 @@ Here is a selection of my end-to-end projects organized by business impact and t
 ---
 
 ## 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/saurabhsunkarwar](https://linkedin.com) *(Update with your direct link)*
-* **Email:** [Your Email Address]
+* **LinkedIn:** [linkedin.com/in/saurabhsunkarwar](https://www.linkedin.com/in/saurabhsunkarwar/)
+* **Email:** [sunkarwar.saurabh@gmail.com](mailto:sunkarwar.sunkarwar@gmail.com)
