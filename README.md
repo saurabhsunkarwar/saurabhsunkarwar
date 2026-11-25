@@ -49,5 +49,5 @@
 ---
 
 ## 📫 Let's Connect
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **LinkedIn:** https://linkedin.com + saurabhsunkarwar
 * **Email:** sunkarwar.saurabh@gmail.com
