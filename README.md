@@ -26,17 +26,17 @@
 * **Stack:** Advanced MS Excel, Power BI (DAX), SQL
 
 ### 📈 Behavioral User & Trader Personality Clustering
-* **Repo:** [`Trader-Profiling-Personality-Clustering`](https://github.com)
+* **Repo:** [`Trader-Profiling-Personality-Clustering`](https://github.com/saurabhsunkarwar/Trader-Profiling-Personality-Clustering)
 * **Focus:** Applied unsupervised machine learning (K-Means & PCA) to segment user behavior into distinct psychological personas, deployed via an interactive web app to guide tailored product engagement.
 * **Stack:** Python, Scikit-Learn, Pandas, Streamlit
 
 ### 🗄 Enterprise Multi-Schema SQL Analytics
-* **Repo:** [`insightx-corp-sql-analytics`](https://github.com)
+* **Repo:** [`insightx-corp-sql-analytics`](https://github.com/saurabhsunkarwar/insightx-corp-sql-analytics)
 * **Focus:** Architected a 4-schema relational database environment solving complex cohort, retention, and operational business queries.
 * **Stack:** Microsoft SQL Server, T-SQL, SSMS
 
 ### 🎥 Real-Time Edge Telemetry & Event Streaming
-* **Repo:** [`realtime-video-analytics-pipeline`](https://github.com)
+* **Repo:** [`realtime-video-analytics-pipeline`](https://github.com/saurabhsunkarwar/realtime-video-analytics-pipeline)
 * **Focus:** Built an automated pipeline capturing real-time object detection events into structured JSON streams and SQL Server for live operational tracking.
 * **Stack:** Python, YOLOv8, OpenCV, SQL Server
 
