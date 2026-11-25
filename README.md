@@ -1,53 +1,53 @@
 # 👋 Hi, I'm Saurabh Sunkarwar
-### **Business Analyst & Data Professional | Bridging Data Engineering, SQL Analytics, & Business Strategy**
+
+### **Product & Pricing Strategy Analyst | Turning User Behavior into Monetization & Retention**
 
 📍 Based in Pune, Maharashtra, India  
-💼 Focused on transforming complex datasets, automated pipelines, and operational metrics into actionable business growth strategies.
+🎯 Focused on **Pricing Strategy, Product Analytics, Behavioral Segmentation, and KPI Modeling** across fast-moving consumer spaces (Gaming, Fantasy Sports, Entertainment & Digital Platforms).
 
 ---
 
-## 🛠️ Core Tech Stack & Competencies
+## 🛠 Core Strategy & Analytics Stack
 
-| Category | Tools & Technologies |
+| Domain | Tools & Methodologies |
 | :--- | :--- |
-| **Data & Querying** | Python (Pandas, NumPy), Advanced SQL (T-SQL, CTEs, Window Functions), Excel (Expert) |
-| **Business Intelligence** | Microsoft Power BI, Dashboarding, KPI Tracking, Data Modeling |
-| **Data Engineering** | OpenCV, YOLOv8, JSON Event Streams, Apache Hadoop/Hive (Basics), ETL Pipelines |
-| **Domain Expertise** | Supply Chain Analytics, Operational Workflow Optimization, User/Trader Segmentation, Product Lifecycle Planning |
+| **Pricing & Financial Modeling** | Microsoft Certified Excel Expert (Power Pivot, What-If Analysis, Sensitivity & Margin Simulations) |
+| **BI & Executive Storytelling** | Microsoft Power BI (DAX, Power Query, Star Schema), Looker Studio, KPI & Funnel Tracking |
+| **Data & Querying** | SQL (SQL Server, MySQL, SQLite — CTEs, Window Functions, Multi-Schema Architecture) |
+| **Behavioral & Rapid Prototyping** | Python (Pandas, Scikit-Learn for K-Means Clustering & Persona Segmentation), AI/LLM Logic Auditing |
+| **Cloud & Big Data Foundations** | Microsoft Azure, Azure Databricks, Google Cloud (GCP), Apache Spark / Hadoop |
 
 ---
 
-## 🚀 Featured Portfolio Projects
+## 🚀 Featured Strategy & Analytics Projects
 
-Here is a selection of my end-to-end projects organized by business impact and technical architecture:
+### 🎮 Dynamic Pricing & Monetization Simulator *(Coming Soon — In Progress)*
+* **Focus:** Interactive Excel sensitivity engine and Power BI dashboard modeling user conversion, churn elasticity, and platform margin across tiered pricing and contest structures.
+* **Stack:** Advanced MS Excel, Power BI (DAX), SQL
 
-### 🚚 Supply Chain & Operations Analytics
-* **[LogiTrack-Supply-Chain-Optimization](https://github.com/saurabhsunkarwar/LogiTrack-Supply-Chain-Optimization)**
-  * *What it does:* End-to-end logistics analytics identifying shipping bottlenecks, carrier reliability indices, and distribution center processing lags.
-  * *Tech Stack:* Python (Pandas), SQL (CTEs, Window Functions), Google Colab.
+### 📈 Behavioral User & Trader Personality Clustering
+* **Repo:** [`Trader-Profiling-Personality-Clustering`](https://github.com)
+* **Focus:** Applied unsupervised machine learning (K-Means & PCA) to segment user behavior into distinct psychological personas, deployed via an interactive web app to guide tailored product engagement.
+* **Stack:** Python, Scikit-Learn, Pandas, Streamlit
 
-### 🗄️ Enterprise SQL Architecture & BI
-* **[insightx-corp-sql-analytics](https://github.com/saurabhsunkarwar/insightx-corp-sql-analytics)**
-  * *What it does:* Simulated enterprise environment featuring a 4-schema relational database (Sales, HR, Operations, Mobility) equipped with 10 production-grade interview SQL challenges.
-  * *Tech Stack:* Microsoft SQL Server, T-SQL, SSMS.
+### 🗄 Enterprise Multi-Schema SQL Analytics
+* **Repo:** [`insightx-corp-sql-analytics`](https://github.com)
+* **Focus:** Architected a 4-schema relational database environment solving complex cohort, retention, and operational business queries.
+* **Stack:** Microsoft SQL Server, T-SQL, SSMS
 
-### 🎥 Computer Vision & Edge Telemetry
-* **[realtime-video-analytics-pipeline](https://github.com/saurabhsunkarwar/realtime-video-analytics-pipeline)**
-  * *What it does:* Real-time computer vision edge pipeline that processes live camera feeds, filters object classes, generates structured time-series JSON event logs, and bulk-inserts metrics into SQL Server.
-  * *Tech Stack:* Python, YOLOv8, OpenCV, PyODBC, SQL Server.
+### 🎥 Real-Time Edge Telemetry & Event Streaming
+* **Repo:** [`realtime-video-analytics-pipeline`](https://github.com)
+* **Focus:** Built an automated pipeline capturing real-time object detection events into structured JSON streams and SQL Server for live operational tracking.
+* **Stack:** Python, YOLOv8, OpenCV, SQL Server
 
-### 📈 Unsupervised Machine Learning & Web Apps
-* **[Trader-Profiling-Personality-Clustering](https://github.com/saurabhsunkarwar/Trader-Profiling-Personality-Clustering)**
-  * *What it does:* Behavioral clustering project using unsupervised machine learning (KMeans & PCA) to segment professional and retail traders into psychological personas, deployed via an interactive web app.
-  * *Tech Stack:* Python, Scikit-Learn, Streamlit, Pandas.
+---
 
-### 🚂 Multi-Batch Data Engineering & Visualization
-* **[Data-Engineering-and-Analysis-of-Railway-data](https://github.com/saurabhsunkarwar/Data-Engineering-and-Analysis-of-Railway-data)**
-  * *What it does:* Ingests and flattens multi-batch nested JSON railway server logs, cleans anomalies via Python, and models operational On-Time Performance (OTP) inside Power BI.
-  * *Tech Stack:* Python (Pandas), Microsoft Power BI (.pbix), JSON.
+## ♟ Beyond the Dashboards
+* **FIDE-Rated Chess Player** (Standard: 1541 | Rapid: 1522) — Passionate about game theory, competitive balance, and multi-step decision trees.
+* **Competitive Cricket & Music** — Active cricketer and acoustic guitar/ukulele player.
 
 ---
 
 ## 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/saurabhsunkarwar](https://www.linkedin.com/in/saurabhsunkarwar/)
-* **Email:** [sunkarwar.saurabh@gmail.com](mailto:sunkarwar.sunkarwar@gmail.com)
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **Email:** sunkarwar.saurabh@gmail.com
